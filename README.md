@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdrhmnshata
 - 👀 I’m interested in Managing products 
-- 🌱 I’m currently learning Mobile development 
 - 💞️ I’m looking to collaborate on my great team
 - 📫 How to reach me ...
 
